@@ -1,0 +1,4 @@
+crewai[tools]
+pdfkit
+streamlit
+pandas
